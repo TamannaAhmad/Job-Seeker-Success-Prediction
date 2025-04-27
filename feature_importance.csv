@@ -1,0 +1,17 @@
+Feature,Importance
+cat__RecruitmentStrategy_1,0.2175263502855174
+num__PersonalityScore,0.1148873557086914
+num__SkillScore,0.11145475130252479
+num__InterviewScore,0.10332630239475113
+num__ExperienceYears,0.08768764530565061
+cat__RecruitmentStrategy_2,0.07804103418717681
+num__DistanceFromCompany,0.0626343863574154
+num__Age,0.0532082990367577
+cat__RecruitmentStrategy_3,0.03641813902449779
+cat__EducationLevel_3,0.029214877383541914
+num__PreviousCompanies,0.0261949862165178
+cat__EducationLevel_4,0.024705267854272593
+cat__EducationLevel_2,0.022480476598385854
+cat__EducationLevel_1,0.01637446573964336
+cat__Gender_1,0.0079931270157576
+cat__Gender_0,0.00785253558889787
