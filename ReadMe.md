@@ -32,6 +32,15 @@ GTS aims to predict the likelihood of a job candidate being hired, based on thei
 
 ---
 
+## Dataset Analysis
+### Preview:
+![Dashboard Screenshot](dashboard.png)
+### For Interactive Dashboard View:
+1. Download the `Recruitment Data Analysis.pbix` file
+2. Open in Power BI Desktop (free download)
+3. Explore filters: Department, Experience, etc.
+---
+
 ## Methodology
 
 - **Data Preprocessing**
